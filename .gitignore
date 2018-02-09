@@ -111,3 +111,5 @@ nbactions.xml
 
 # End of https://www.gitignore.io/api/netbeans,visualstudiocode
 
+/03IntroducaoaClassesObjetosMetodoseStrings/03IntroducaoaClassesObjetosMetodoseStrings/nbproject/private/
+/03IntroducaoaClassesObjetosMetodoseStrings/nbproject/private/
