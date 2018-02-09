@@ -6,7 +6,7 @@
 
 - [Introdução a computadores, internet e Java](#parte1)
 - [Introdução a aplicativos Java – entrada/saída e operadores](#parte2)
-- [Introdução a classes, objetos, métodos e strings](#parte3)
+- [Introdução a classes, objetos, métodos e strings](https://github.com/josemalcher/Livro-JAVAComoProgramar-Deitel-10ed/tree/master/03IntroducaoaClassesObjetosMetodoseStrings)
 - [Instruções de controle: parte 1; operadores de atribuição ++ e --](#parte4)
 - [Instruções de controle: parte 2; operadores lógicos](#parte5)
 - [Métodos: um exame mais profundo](#parte6)
