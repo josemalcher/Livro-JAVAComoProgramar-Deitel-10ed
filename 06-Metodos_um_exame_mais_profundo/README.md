@@ -1,6 +1,5 @@
-# ________
+# Métodos: um exame mais profundo
 
-https://#/
 
 ---
 
@@ -32,3 +31,4 @@ https://#/
 [Voltar ao Índice](#indice)
 
 ---
+
