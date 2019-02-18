@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/java,eclipse,database,java-web,intellij+all,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=java,eclipse,database,java-web,intellij+all,visualstudiocode
 
@@ -179,7 +178,7 @@ modules.xml
 *.war
 *.nar
 *.ear
-*.zip
+#*.zip
 *.tar.gz
 *.rar
 
@@ -202,3 +201,6 @@ target/
 .history
 
 # End of https://www.gitignore.io/api/java,eclipse,database,java-web,intellij+all,visualstudiocode
+
+00-Material-Livro/DeitelMessengerCaseStudy/
+00-Material-Livro/examples/
